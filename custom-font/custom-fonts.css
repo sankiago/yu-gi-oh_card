@@ -1,0 +1,17 @@
+/*Nombre de las cartas*/
+@font-face {
+    font-family: 'Matrix Regular Small Caps';
+    src: url('./matrix_regular_small_caps.woff');
+}
+
+/*Atributos*/
+@font-face {
+    font-family: 'ITC Stone Serif Small Caps Bold';
+    src: url("./ITC_Stone_Serif_Small_Caps_Bold.woff");
+}
+
+/*Detalles*/
+@font-face {
+    font-family: 'Matrix Book';
+    src: url("./matrix_book.woff");
+}
